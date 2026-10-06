@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+redis
+torch
+numpy
+pytest
+httpx
+python-dotenv
